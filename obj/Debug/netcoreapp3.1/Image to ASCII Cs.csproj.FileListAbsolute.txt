@@ -1,0 +1,38 @@
+C:\Users\willi\Desktop\Bill Baggin's Sandbox\Cs\Image to ASCII Cs\obj\Debug\netcoreapp3.1\Image to ASCII Cs.csprojAssemblyReference.cache
+C:\Users\willi\Desktop\Bill Baggin's Sandbox\Cs\Image to ASCII Cs\obj\Debug\netcoreapp3.1\Image to ASCII Cs.AssemblyInfoInputs.cache
+C:\Users\willi\Desktop\Bill Baggin's Sandbox\Cs\Image to ASCII Cs\obj\Debug\netcoreapp3.1\Image to ASCII Cs.AssemblyInfo.cs
+C:\Users\willi\Desktop\Bill Baggin's Sandbox\Cs\Image to ASCII Cs\obj\Debug\netcoreapp3.1\Image to ASCII Cs.csproj.CoreCompileInputs.cache
+C:\Users\willi\Desktop\Bill Baggin's Sandbox\Cs\Image to ASCII Cs\bin\Debug\netcoreapp3.1\Image to ASCII Cs.exe
+C:\Users\willi\Desktop\Bill Baggin's Sandbox\Cs\Image to ASCII Cs\bin\Debug\netcoreapp3.1\Image to ASCII Cs.deps.json
+C:\Users\willi\Desktop\Bill Baggin's Sandbox\Cs\Image to ASCII Cs\bin\Debug\netcoreapp3.1\Image to ASCII Cs.runtimeconfig.json
+C:\Users\willi\Desktop\Bill Baggin's Sandbox\Cs\Image to ASCII Cs\bin\Debug\netcoreapp3.1\Image to ASCII Cs.runtimeconfig.dev.json
+C:\Users\willi\Desktop\Bill Baggin's Sandbox\Cs\Image to ASCII Cs\bin\Debug\netcoreapp3.1\Image to ASCII Cs.dll
+C:\Users\willi\Desktop\Bill Baggin's Sandbox\Cs\Image to ASCII Cs\bin\Debug\netcoreapp3.1\Image to ASCII Cs.pdb
+C:\Users\willi\Desktop\Bill Baggin's Sandbox\Cs\Image to ASCII Cs\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\willi\Desktop\Bill Baggin's Sandbox\Cs\Image to ASCII Cs\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\willi\Desktop\Bill Baggin's Sandbox\Cs\Image to ASCII Cs\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\willi\Desktop\Bill Baggin's Sandbox\Cs\Image to ASCII Cs\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\willi\Desktop\Bill Baggin's Sandbox\Cs\Image to ASCII Cs\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\willi\Desktop\Bill Baggin's Sandbox\Cs\Image to ASCII Cs\obj\Debug\netcoreapp3.1\Image to ASCII Cs.csproj.CopyComplete
+C:\Users\willi\Desktop\Bill Baggin's Sandbox\Cs\Image to ASCII Cs\obj\Debug\netcoreapp3.1\Image to ASCII Cs.dll
+C:\Users\willi\Desktop\Bill Baggin's Sandbox\Cs\Image to ASCII Cs\obj\Debug\netcoreapp3.1\Image to ASCII Cs.pdb
+C:\Users\willi\Desktop\Bill Baggin's Sandbox\Cs\Image to ASCII Cs\obj\Debug\netcoreapp3.1\Image to ASCII Cs.genruntimeconfig.cache
+C:\Users\willi\Desktop\Bill Baggin's Sandbox\Cs\Projects\Image to ASCII Cs\bin\Debug\netcoreapp3.1\Image to ASCII Cs.exe
+C:\Users\willi\Desktop\Bill Baggin's Sandbox\Cs\Projects\Image to ASCII Cs\bin\Debug\netcoreapp3.1\Image to ASCII Cs.deps.json
+C:\Users\willi\Desktop\Bill Baggin's Sandbox\Cs\Projects\Image to ASCII Cs\bin\Debug\netcoreapp3.1\Image to ASCII Cs.runtimeconfig.json
+C:\Users\willi\Desktop\Bill Baggin's Sandbox\Cs\Projects\Image to ASCII Cs\bin\Debug\netcoreapp3.1\Image to ASCII Cs.runtimeconfig.dev.json
+C:\Users\willi\Desktop\Bill Baggin's Sandbox\Cs\Projects\Image to ASCII Cs\bin\Debug\netcoreapp3.1\Image to ASCII Cs.dll
+C:\Users\willi\Desktop\Bill Baggin's Sandbox\Cs\Projects\Image to ASCII Cs\bin\Debug\netcoreapp3.1\Image to ASCII Cs.pdb
+C:\Users\willi\Desktop\Bill Baggin's Sandbox\Cs\Projects\Image to ASCII Cs\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\willi\Desktop\Bill Baggin's Sandbox\Cs\Projects\Image to ASCII Cs\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\willi\Desktop\Bill Baggin's Sandbox\Cs\Projects\Image to ASCII Cs\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\willi\Desktop\Bill Baggin's Sandbox\Cs\Projects\Image to ASCII Cs\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\willi\Desktop\Bill Baggin's Sandbox\Cs\Projects\Image to ASCII Cs\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\willi\Desktop\Bill Baggin's Sandbox\Cs\Projects\Image to ASCII Cs\obj\Debug\netcoreapp3.1\Image to ASCII Cs.csprojAssemblyReference.cache
+C:\Users\willi\Desktop\Bill Baggin's Sandbox\Cs\Projects\Image to ASCII Cs\obj\Debug\netcoreapp3.1\Image to ASCII Cs.AssemblyInfoInputs.cache
+C:\Users\willi\Desktop\Bill Baggin's Sandbox\Cs\Projects\Image to ASCII Cs\obj\Debug\netcoreapp3.1\Image to ASCII Cs.AssemblyInfo.cs
+C:\Users\willi\Desktop\Bill Baggin's Sandbox\Cs\Projects\Image to ASCII Cs\obj\Debug\netcoreapp3.1\Image to ASCII Cs.csproj.CoreCompileInputs.cache
+C:\Users\willi\Desktop\Bill Baggin's Sandbox\Cs\Projects\Image to ASCII Cs\obj\Debug\netcoreapp3.1\Image to ASCII Cs.csproj.CopyComplete
+C:\Users\willi\Desktop\Bill Baggin's Sandbox\Cs\Projects\Image to ASCII Cs\obj\Debug\netcoreapp3.1\Image to ASCII Cs.dll
+C:\Users\willi\Desktop\Bill Baggin's Sandbox\Cs\Projects\Image to ASCII Cs\obj\Debug\netcoreapp3.1\Image to ASCII Cs.pdb
+C:\Users\willi\Desktop\Bill Baggin's Sandbox\Cs\Projects\Image to ASCII Cs\obj\Debug\netcoreapp3.1\Image to ASCII Cs.genruntimeconfig.cache

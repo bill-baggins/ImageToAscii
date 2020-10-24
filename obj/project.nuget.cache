@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "hURbBw3I4ueqvgW1dFAFpJhBr779jBxPZmZq0O/TNp9ChHbJ09ctgP2xAMD6yTBMkscrc6CB+Qkp5Xidx6FSTg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\willi\\Desktop\\Bill Baggin's Sandbox\\Cs\\Projects\\Image to ASCII Cs\\Image to ASCII Cs.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\willi\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
+    "C:\\Users\\willi\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
+    "C:\\Users\\willi\\.nuget\\packages\\system.drawing.common\\4.7.0\\system.drawing.common.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
