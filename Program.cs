@@ -8,7 +8,7 @@ namespace Image_to_ASCII_Cs
     {
         static void Main(string[] args)
         {
-            // The ascii string. I am trying to decide which one makes the image look best.
+            // The ascii strings. Uncommented one looks best.
             //string ascii = "$@B%8&WM#*oahkbdpqwmZO0QLCJUYXzcvunxrjft/\\|()1}{][?-_+~i!lI;:,\"^`";
             string ascii = "$@B %M#akdq  QCUXcux  \\(1{[-+il;,^ ";
             //string ascii = "$8#hpOLUvr/\\}]?~I^ ";
