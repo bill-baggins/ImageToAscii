@@ -8,14 +8,9 @@ namespace Image_to_ASCII_Cs
     {
         static void Main(string[] args)
         {
-            // The ascii strings. Uncommented one looks best.
-            //string ascii = "$@B%8&WM#*oahkbdpqwmZO0QLCJUYXzcvunxrjft/\\|()1}{][?-_+~i!lI;:,\"^`";
+            // The ascii strings.
             string ascii = "$@B %M#akdq  QCUXcux  \\(1{[-+il;,^ ";
-            //string ascii = "$8#hpOLUvr/\\}]?~I^ ";
-            //string ascii = "$#pLv/}?I ";
-            //string ascii = "$*pQv}?!^ ";
-            
-            
+
             // User option: choose the width of the image.
             string stringWidth;
             int width;
@@ -44,6 +39,7 @@ namespace Image_to_ASCII_Cs
                 {
                     if(images[i].Slice(images[i].Length-4, images[i].Length) == validFileFormats[j])
                     {
+                        Console.WriteLine("{0}) {1}", i.ToString(), images[i].Slice(7, images[i].Length));
                         break;
                     }
                     else if (images[i].Slice(images[i].Length-4, images[i].Length) != validFileFormats[j] && j == validFileFormats.Length-1)
@@ -51,7 +47,6 @@ namespace Image_to_ASCII_Cs
                         badFileFormats.Add(images[i]);
                     }  
                 }
-                Console.WriteLine("{0}: {1} ", i+1 ,images[i].Replace("images\\", ""));
             }
 
             // Checks to see if there are files in badFileFormats. If so, it will display

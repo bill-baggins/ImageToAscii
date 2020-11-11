@@ -1,12 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "hURbBw3I4ueqvgW1dFAFpJhBr779jBxPZmZq0O/TNp9ChHbJ09ctgP2xAMD6yTBMkscrc6CB+Qkp5Xidx6FSTg==",
+  "dgSpecHash": "I4DzBzS1VNWgZbjxie4BujOWMt6ybKUWUy6CMIUdGR0hq+DwSqexDCfydRPYIbLEG7Yi4h70ZFO2lIXGugkgWA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\willi\\Desktop\\Bill Baggin's Sandbox\\Cs\\Projects\\Image to ASCII Cs\\Image to ASCII Cs.csproj",
+  "projectFilePath": "C:\\Users\\willi\\Documents\\ImageToAscii\\Image to ASCII Cs.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\willi\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\willi\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
-    "C:\\Users\\willi\\.nuget\\packages\\system.drawing.common\\4.7.0\\system.drawing.common.4.7.0.nupkg.sha512"
+    "C:\\Users\\willi\\.nuget\\packages\\system.drawing.common\\4.7.0\\system.drawing.common.4.7.0.nupkg.sha512",
+    "C:\\Users\\willi\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
   ],
   "logs": []
 }
