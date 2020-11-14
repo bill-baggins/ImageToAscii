@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\willi\\Documents\\ImageToAscii\\Image to ASCII Cs.csproj": {}
+    "C:\\Users\\willi\\Desktop\\ImageToAscii\\Image to ASCII Cs.csproj": {}
   },
   "projects": {
-    "C:\\Users\\willi\\Documents\\ImageToAscii\\Image to ASCII Cs.csproj": {
+    "C:\\Users\\willi\\Desktop\\ImageToAscii\\Image to ASCII Cs.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\willi\\Documents\\ImageToAscii\\Image to ASCII Cs.csproj",
+        "projectUniqueName": "C:\\Users\\willi\\Desktop\\ImageToAscii\\Image to ASCII Cs.csproj",
         "projectName": "Image to ASCII Cs",
-        "projectPath": "C:\\Users\\willi\\Documents\\ImageToAscii\\Image to ASCII Cs.csproj",
+        "projectPath": "C:\\Users\\willi\\Desktop\\ImageToAscii\\Image to ASCII Cs.csproj",
         "packagesPath": "C:\\Users\\willi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\willi\\Documents\\ImageToAscii\\obj\\",
+        "outputPath": "C:\\Users\\willi\\Desktop\\ImageToAscii\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\willi\\AppData\\Roaming\\NuGet\\NuGet.Config",
